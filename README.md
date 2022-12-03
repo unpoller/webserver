@@ -1,5 +1,7 @@
 # UniFi Poller: `webserver` plugin
 
+Moved to https://github.com/unpoller/unpoller/tree/master/pkg/webserver
+
 Built-In Web Server Go Library for UniFi Poller.
 
 Enabling the web server is optional. It provides a window into the running data.
